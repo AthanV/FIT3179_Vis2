@@ -1,4 +1,4 @@
-﻿Year,State,Trips,Population,Visitors per 1000 Residents 
+﻿Year,State,Trips,Population,Visitors per 1000 Residents
 2010,Australian Capital Territory,2080.666005,362838,5.734421436
 2010,New South Wales,25551.33734,7162726.00,3.567264383
 2010,Northern Territory,5749.704903,230460,24.94881933
@@ -48,6 +48,7 @@
 2016,South Australia,6707.679217,1717275,3.906001786
 2016,Victoria,23244.41426,6205852,3.745563745
 2016,Western Australia,10240.17429,2564492,3.993061508
+
 
 
 
